@@ -1,0 +1,10 @@
+@url=https://easy.dans.knaw.nl/oai/
+@metadataPrefix=oai_dc
+@set=theo1
+
+oai:easy.dans.knaw.nl:easy-dataset:4215
+oai:easy.dans.knaw.nl:easy-dataset:25037
+
+@set=theo2
+oai:easy.dans.knaw.nl:easy-dataset:30768
+oai:easy.dans.knaw.nl:easy-dataset:32044
