@@ -1,4 +1,0 @@
-r1	oai:easy.dans.knaw.nl:easy-dataset:4215
-r2	oai:easy.dans.knaw.nl:easy-dataset:25037
-r3	oai:easy.dans.knaw.nl:easy-dataset:30768
-r4	oai:easy.dans.knaw.nl:easy-dataset:32044
