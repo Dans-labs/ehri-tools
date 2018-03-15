@@ -4,7 +4,11 @@
 
 oai:easy.dans.knaw.nl:easy-dataset:4215
 oai:easy.dans.knaw.nl:easy-dataset:25037
+oai:easy.dans.knaw.nl:easy-dataset:25037x
 
 @set=theo2
 oai:easy.dans.knaw.nl:easy-dataset:30768
 oai:easy.dans.knaw.nl:easy-dataset:32044
+
+@metadataPrefix=oai_dx
+oai:easy.dans.knaw.nl:easy-dataset:32044x
