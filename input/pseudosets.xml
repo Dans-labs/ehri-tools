@@ -1,0 +1,17 @@
+<config>
+    <repository id="dans-easy">
+        <baseurl>https://easy.dans.knaw.nl/oai/</baseurl>
+        <metadataprefix>oai_dc</metadataprefix>
+        <output-set name="theo1">
+            <id>oai:easy.dans.knaw.nl:easy-dataset:4215</id>
+            <id>oai:easy.dans.knaw.nl:easy-dataset:25037</id>
+            <id>oai:easy.dans.knaw.nl:easy-dataset:25037x</id>
+        </output-set>
+        <output-set name="theo2">
+            <id>oai:easy.dans.knaw.nl:easy-dataset:30678</id>
+            <id>oai:easy.dans.knaw.nl:easy-dataset:32044</id>
+        </output-set>
+        <from>2006-11-01T00:00:00Z</from>
+        <recordpath>_temp/oai-pmh-harvester/dans</recordpath>
+    </repository>
+</config>
