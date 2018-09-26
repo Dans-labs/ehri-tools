@@ -1,0 +1,6 @@
+2018-09-26T09:13:07.928000 =  0.00s > working in directory "/Users/dirk/github/Dans-labs/ehri-tools/programs"
+2018-09-26T09:13:07.928036 =  0.00s > Harvest all repos found in "config.xml"
+2018-09-26T09:13:07.928067 =  0.00s > No config file "config.xml"
+2018-09-26T09:14:48.134517 =  0.00s > working in directory "/Users/dirk/github/Dans-labs/ehri-tools/programs"
+2018-09-26T09:14:48.134551 =  0.00s > Harvest all repos found in "config.xml"
+2018-09-26T09:14:48.134629 =  0.00s > No config file "config.xml"
